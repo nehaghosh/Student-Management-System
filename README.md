@@ -30,7 +30,7 @@ A console-based Student Management System developed in C++ using Object-Oriented
 
 ### Data Structures & Algorithms
 
-* `vector`
+* vector
 * Linear Search
 * Bubble Sort
 
